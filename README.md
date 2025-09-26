@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Pitchium](https://github.com/akramfrk/Portfolio)
 
-- 🌱 I’m currently learning **AI and its Applications**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akramfrk](https://github.com/akramfrk)
 
