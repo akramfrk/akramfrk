@@ -1,37 +1,66 @@
-<h1 align="center">Hi 👋, I'm Akram</h1>
-<h3 align="center">A Web Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akramfrk&label=Profile%20views&color=0e75b6&style=flat" alt="akramfrk" /> </p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramfrk" alt="akramfrk" /></a> </p>
+  # Hi there, I'm Akram 👋
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  ### 👨‍💻 Web Developer | Linux Enthusiast
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+build+modern+web+applications;I+love+React%2C+Next.js+and+Linux;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on [Pitchium](https://github.com/akramfrk/Portfolio)
+  <p>
+    <a href="https://github.com/akramfrk">
+      <img src="https://komarev.com/ghpvc/?username=akramfrk&label=Profile%20views&color=0e75b6&style=flat" alt="akramfrk" />
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **Web Development**
+  <p>
+    <a href="https://linkedin.com/in/ferkioui-akram" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:akramferkioui.contact@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/akram.frk" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/akramfrk](https://github.com/akramfrk)
+---
 
-- 💬 Ask me about **JavaScript, TypeScript, React.JS, Next.JS, TailwindCSS, Linux ....**
+### 🧐 About Me
 
-- 📫 How to reach me **akramferkioui.contact@gmail.com**
+- 🔭 I’m currently working on **[Pitchium](https://github.com/akramfrk/Portfolio)**
+- 🌱 I’m currently expanding my skills in **Full Stack Web Development**
+- 💬 Ask me about **React, Next.js, TypeScript, and Linux customization**
+- 👨‍💻 Check out my projects at **[github.com/akramfrk](https://github.com/akramfrk)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ferkioui-akram/](https://www.linkedin.com/in/ferkioui-akram/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ferkioui-akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferkioui-akram" height="30" width="40" /></a>
-<a href="https://instagram.com/akram.frk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akram.frk" height="30" width="40" /></a>
-</p>
+### 🛠 Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=vscode,bash,c,linux,git,github,md,latex,java,html,css,js,ts,firebase,tailwind,react,redux,nextjs" alt="My Skills" />
-</a>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,firebase,java,c,linux,bash,git,github,vscode,md,latex&perline=9" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akramfrk&show_icons=true&locale=en&layout=compact" alt="akramfrk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramfrk&show_icons=true&locale=en" alt="akramfrk" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramfrk&" alt="akramfrk" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramfrk&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  
+  <br/>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akramfrk&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramfrk&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+  </a>
+</div>
