@@ -33,7 +33,7 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **[Pitchium](https://github.com/akramfrk/Portfolio)**
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently expanding my skills in **Full Stack Web Development**
 - 💬 Ask me about **React, Next.js, TypeScript, and Linux customization**
 - 👨‍💻 Check out my projects at **[github.com/akramfrk](https://github.com/akramfrk)**
